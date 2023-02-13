@@ -1,5 +1,8 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+# Hidden directory on Windows (no dot)
+__pycache__/
+*.json
+*.xlsx
+template/readMe/
+*.log
+output.txt
+static/cert/*.pem
